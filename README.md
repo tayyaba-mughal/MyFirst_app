@@ -1,2 +1,2 @@
 # MyFirst_app
-simple learning process first github repository  in cheking  all the processs
+simple learning first file, first github repository  in checking  all the processs
